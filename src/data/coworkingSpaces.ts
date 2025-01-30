@@ -425,14 +425,6 @@ export const coworkingSpaces: CoworkingSpace[] = [
     area: "Hyderabad - West"
   },
   {
-    name: "Attic Space Watermark",
-    location: "Hitech City",
-    category: "Standard (6k-12k)",
-    price: "6000",
-    coordinates: [17.4504, 78.3808],
-    area: "Hyderbard- West"
-  },
-  {
     name: "Innov8 by OYO",
     location: "Hitech City",
     category: "Standard (6k-12k)",
