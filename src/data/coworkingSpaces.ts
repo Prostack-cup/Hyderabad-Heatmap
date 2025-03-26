@@ -2083,5 +2083,245 @@ export const coworkingSpaces: CoworkingSpace[] = [
       name: "Shwetha/Arindam",
       contact: "7397480134/7842916132"
     }
-  }
+  },
+  {
+    name: "Dwaraka Orbit",
+    location: "Raidurg",
+    category: "Sub premium (6k-12k)",
+    price: "11500",
+    coordinates: [17.4385, 78.3735],
+    area: "Hyderabad - Central",
+    poc: {
+      name: "Rakesh/Pradeep/Abhilash",
+      contact: "9704983995/9490414411/8977627323"
+    }
+  },
+  {
+    name: "Dwaraka Jaihind Enclave",
+    location: "Hitech City",
+    category: "Sub premium (6k-12k)",
+    price: "8000",
+    coordinates: [17.4504, 78.3808],
+    area: "Hyderbard- West",
+    poc: {
+      name: "Rakesh/Pradeep/Abhilash",
+      contact: "9704983995/9490414411/8977627323"
+    }
+  },
+  {
+    name: "Pinakin co-working",
+    location: "Hitech City",
+    category: "Premium(12K or More)",
+    price: "15800",
+    coordinates: [17.4504, 78.3808],
+    area: "Hyderbard- West",
+    poc: {
+      name: "Sachin",
+      contact: "9121325674"
+    }
+  },
+  {
+    name: "Fresh desk",
+    location: "Madhapur",
+    category: "Sub premium (6k-12k)",
+    price: "8500",
+    coordinates: [17.4457, 78.3885],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Guru",
+      contact: "9063691034"
+    }
+  },
+  {
+    name: "Boston Square",
+    location: "Khajaguda",
+    category: "Premium(12K or More)",
+    price: "140000",
+    coordinates: [17.41722, 78.36561],
+    area: "",
+    poc: {
+      name: "Srikanth",
+      contact: "9885160797"
+    }
+  },
+  {
+    name: "Blue Bel",
+    location: "Begumpet",
+    category: "Sub premium (6k-12k)",
+    price: "7000",
+    coordinates: [17.4499, 78.469],
+    area: "Hyderbad - West",
+    poc: {
+      name: "Srikanth",
+      contact: "9032561199"
+    }
+  },
+  {
+    name: "Kapil Kavuri Hub",
+    location: "Nanakramguda",
+    category: "Sub premium (6k-12k)",
+    price: "8000",
+    coordinates: [17.41298, 78.33864],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Nanda",
+      contact: "7815888033"
+    }
+  },
+  {
+    name: "Altf spaces",
+    location: "Nanakramguda",
+    category: "Sub premium (6k-12k)",
+    price: "7500",
+    coordinates: [17.41298, 78.33864],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Reepika",
+      contact: "9821591664"
+    }
+  },
+  {
+    name: "EZ - Spaces",
+    location: "Hitech City",
+    category: "Sub premium (6k-12k)",
+    price: "7000",
+    coordinates: [17.4504, 78.3808],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Rituraj",
+      contact: "9160044516"
+    }
+  },
+  {
+    name: "Dream catchers coworking",
+    location: "Ameerpet",
+    category: "Budgeted(6k or less)",
+    price: "2500",
+    coordinates: [17.4375, 78.4483],
+    area: "Hyderabad - Central",
+    poc: {
+      name: "Vikram",
+      contact: "9666998597"
+    }
+  },
+  {
+    name: "Cohort Co- working",
+    location: "Madhapur",
+    category: "Sub premium (6k-12k)",
+    price: "7000",
+    coordinates: [17.4457, 78.3885],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Reshma",
+      contact: "9032251905"
+    }
+  },
+  {
+    name: "Nexus Business center",
+    location: "Madhapur",
+    category: "Budgeted(6k or less)",
+    price: "5000",
+    coordinates: [17.4457, 78.3885],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Vijay",
+      contact: "9949379073"
+    }
+  },
+  {
+    name: "Cohort Co- working",
+    location: "Kondapur",
+    category: "Sub premium (6k-12k)",
+    price: "6500",
+    coordinates: [17.4597, 78.3556],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Reshma",
+      contact: "9032251905"
+    }
+  },
+  {
+    name: "Cohort Co- working",
+    location: "Secunderabad",
+    category: "Sub premium (6k-12k)",
+    price: "6500",
+    coordinates: [17.5043, 78.5426],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Reshma",
+      contact: "9032251905"
+    }
+  },
+  {
+    name: "IKeva Aurobindo Orbit",
+    location: "Hitech City",
+    category: "Sub premium (6k-12k)",
+    price: "10000",
+    coordinates: [17.4504, 78.3808],
+    area: "Hyderbard- West",
+    poc: {
+      name: "Adnan/Papi Reddy",
+      contact: "8610650661/9908808044/9032278044"
+    }
+  },
+  {
+    name: "IKeva One Golden Mile",
+    location: "Kokapet",
+    category: "Sub premium (6k-12k)",
+    price: "9500",
+    coordinates: [17.3977, 78.3389],
+    area: "Hyderabad - South",
+    poc: {
+      name: "Adnan/Papi Reddy",
+      contact: "8610650661/9908808044/9032278044"
+    }
+  },
+  {
+    name: "CoKarma - Durgam Cheruvu",
+    location: "Hitech City",
+    category: "Sub premium (6k-12k)",
+    price: "8000",
+    coordinates: [17.4504, 78.3808],
+    area: "Hyderbard- West",
+    poc: {
+      name: "Tarun/Sharath/Harsh",
+      contact: "9989016041/9347681099/7659929659"
+    }
+  },
+  {
+    name: "CoKarma - Alcazar Mall",
+    location: "Jubilee Hills",
+    category: "Sub premium (6k-12k)",
+    price: "8000",
+    coordinates: [17.4283, 78.4138],
+    area: "Hyderabad - West",
+    poc: {
+      name: "Tarun/Sharath/Harsh",
+      contact: "9989016041/9347681099/7659929659"
+    }
+  },
+  {
+    name: "Amulya co-working",
+    location: "Panjagutta",
+    category: "Budgeted(6k or less)",
+    price: "4500",
+    coordinates: [17.4279, 78.4482],
+    area: "Hyderabad - West",
+    poc: {
+      name: "G.S Reddy",
+      contact: "8985795272"
+    }
+  },
+  {
+    name: "A D wrks",
+    location: "Uppal",
+    category: "Budgeted(6k or less)",
+    price: "5500",
+    coordinates: [17.4057, 78.5591],
+    area: "Hyderabad - East",
+    poc: {
+      name: "Dinesh",
+      contact: "9059034132"
+    }
+  },
 ];
